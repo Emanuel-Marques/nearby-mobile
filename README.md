@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-    <img src="./src/assets/capa-readme.png" alt="Image Example" width="600px">
+    <img src="./assets/images/case.png" alt="Image Example" width="600px">
 </p>
 
 <h2 id="started">📌 Sobre</h2>
