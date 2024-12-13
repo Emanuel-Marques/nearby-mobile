@@ -60,12 +60,9 @@ npx expo start
 Todas as inetrfaces disponíveis na aplicação
 | Interface               | Descrição                                          
 |----------------------|-----------------------------------------------------
-|   <p align="center">
-    <img src="./assets/images/Home.png" alt="Image Example" width="600px">
-</p>   | página home
-| <p align="center">
-    <img src="./assets/images/Details.png" alt="Image Example" width="600px">
-</p>     | Detalhes do estabelecimento.
+| <kbd>Splash</kbd>     | Interface de splash com o logo do app
+| <kbd>Start</kbd>     | Interface com informações sobre o app
+| <kbd>Details</kbd>     | Interface com detalhes do estabelecimento .
 
 <h2 id="colab">🤝 Colaboradores</h2>
 
