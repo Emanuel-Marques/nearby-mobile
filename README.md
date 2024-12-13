@@ -25,7 +25,7 @@
 
 Bem-vindo ao repositório do app mobile Nearby, o projecto é um aplicativo de clube de benefícios com cuppons para utilizar em estabelecimentos próximos a você.
 
-[![project][PROJECT__BADGE]][PROJECT__URL]
+<!-- [![project][PROJECT__BADGE]][PROJECT__URL] -->
 
 <h2 id="started">🚀 Começando</h2>
 
@@ -53,15 +53,19 @@ cd nearby-mobile
 npm install
 npx expo start
 ```
-Isso iniciará o servidor de desenvolvimento e você poderá visualizar a aplicação em `http://localhost:3000/`.
+<!-- Isso iniciará o servidor de desenvolvimento e você poderá visualizar a aplicação em `http://localhost:3000/`. -->
 
 <h2 id="routes">📍 Intefaces da Aplicação</h2>
 
 Todas as inetrfaces disponíveis na aplicação
 | Interface               | Descrição                                          
 |----------------------|-----------------------------------------------------
-| <kbd>/</kbd>     | página home
-| <kbd>/details</kbd>     | Detalhes do estabelecimento.
+|   <p align="center">
+    <img src="./assets/images/Home.png" alt="Image Example" width="600px">
+</p>   | página home
+| <p align="center">
+    <img src="./assets/images/Details.png" alt="Image Example" width="600px">
+</p>     | Detalhes do estabelecimento.
 
 <h2 id="colab">🤝 Colaboradores</h2>
 
