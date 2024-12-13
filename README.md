@@ -23,7 +23,7 @@
 
 <h2 id="started">📌 Sobre</h2>
 
-Bem-vindo ao repositório oficial do website da Brazilian Power Team. Este projeto foi desenvolvido para representar a equipe e oferecer informações sobre horários, membros, serviços e eventos. O site é otimizado para navegadores modernos e dispositivos móveis, oferecendo uma experiência fluida e profissional aos usuários.
+Bem-vindo ao repositório do app mobile Nearby, o projecto é um aplicativo de clube de benefícios com cuppons para utilizar em estabelecimentos próximos a você.
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
@@ -33,8 +33,8 @@ Bem-vindo ao repositório oficial do website da Brazilian Power Team. Este proje
 
 Pré-requisitos necessários para executar o projeto:
 
-- Node.js (v14 ou superior)
-- npm (v6 ou superior)
+- Node.js (v22 ou superior)
+- npm (v10 ou superior)
 
 <h3>Clonando</h3>
 
@@ -51,19 +51,17 @@ Para executar o a aplicação siga os seguintes passos:
 ```bash
 cd nearby-mobile
 npm install
-npm run dev
+npx expo start
 ```
 Isso iniciará o servidor de desenvolvimento e você poderá visualizar a aplicação em `http://localhost:3000/`.
 
-<h2 id="routes">📍 Rotas da Aplicação</h2>
+<h2 id="routes">📍 Intefaces da Aplicação</h2>
 
-Todas as rotas disponíveis na aplicação
-| Rota               | Descrição                                          
+Todas as inetrfaces disponíveis na aplicação
+| Interface               | Descrição                                          
 |----------------------|-----------------------------------------------------
-| <kbd>/</kbd>     | página principal
-| <kbd>/nossos-atletas</kbd>     | Apresentação dos membros da equipe com foto e especialidade.
-| <kbd>/horario-de-aulas</kbd>     | Exibição detalhada dos horários das aulas e treinos.
-| <kbd>/nossa-academia</kbd>     | Apresentação da academia e dos líderes.
+| <kbd>/</kbd>     | página home
+| <kbd>/details</kbd>     | Detalhes do estabelecimento.
 
 <h2 id="colab">🤝 Colaboradores</h2>
 
