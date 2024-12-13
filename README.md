@@ -12,7 +12,7 @@
 <p align="center">
  <a href="#about">Sobre</a> • 
  <a href="#started">Começando</a> • 
-  <a href="#started">Rotas da aplicação</a> • 
+  <a href="#started">Interfaces da aplicação</a> • 
   <a href="#colab">Colaboradores</a> •
  <a href="#contribute">Contribuição</a>
 </p>
